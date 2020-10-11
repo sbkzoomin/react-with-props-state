@@ -6,8 +6,8 @@ class Student extends React.Component {
     this.state = {
       image: 'https://github.com/sbkzoomin.png',
       name: "Bharat Kumar",
-      age: "27",
-      course: 'MCA',
+      age: "26",
+      course: 'BE',
       location: 'Hyderabad'
     }
   }
